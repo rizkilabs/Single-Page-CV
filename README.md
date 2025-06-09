@@ -66,7 +66,7 @@ Here's a quick preview of how it looks when shared on social media (thanks to Op
 ## 🙋‍♂️ About Me
 
 Hi! I’m **Rizki** – an aspiring full-stack web developer, currently learning the basics step by step.
-Let’s connect on [LinkedIn](https://linkedin.com/in/rizkilabs]
+Let’s connect on [LinkedIn](https://linkedin.com/in/rizkilabs)
 
 ---
 
