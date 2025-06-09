@@ -73,7 +73,7 @@ Let’s connect on [LinkedIn](https://linkedin.com/in/yourusername)!
 ## 📫 Contact Me
 
 If you want to give feedback, or just say hi 👋
-Email me: [your.email@example.com](mailto:your.email@example.com)
+Email me: [rizkilabs.dev@@gmail.com](mailto:rizkilabs.dev@egmail.com)
 
 ---
 
