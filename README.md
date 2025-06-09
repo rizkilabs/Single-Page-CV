@@ -73,7 +73,7 @@ Let’s connect on [LinkedIn](https://linkedin.com/in/rizkilabs!
 ## 📫 Contact Me
 
 If you want to give feedback, or just say hi 👋 <br>
-Email me: [rizkilabs.dev@@gmail.com](mailto:rizkilabs.dev@egmail.com)
+Email me: [rizkilabs.dev@gmail.com](mailto:rizkilabs.dev@gmail.com)
 
 ---
 
