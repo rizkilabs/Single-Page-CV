@@ -42,8 +42,8 @@ I built this to:
 ## 🔍 Try It Online
 
 Want to see it live?
-Check out the [GitHub Pages version here]([https://rizkilabs.github.io/Single-Page-CV/) 🌍 <br>
-https://rizkilabs.github.io/Single-Page-CV/
+Check out the [GitHub Pages version here]([https://rizkilabs.github.io/Single-Page-CV/) 🌍
+
 > Replace the link above with your actual GitHub Pages URL if you publish it.
 
 ---
@@ -90,3 +90,5 @@ Email me: [rizkilabs.dev@gmail.com](mailto:rizkilabs.dev@gmail.com)
 
 Thanks for stopping by! 🙌 <br>
 If you like this, feel free to give it a ⭐ on GitHub!
+
+https://roadmap.sh/projects/single-page-cv
