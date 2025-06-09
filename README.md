@@ -59,7 +59,7 @@ Check out the [GitHub Pages version here](https://your-username.github.io/your-r
 
 Here's a quick preview of how it looks when shared on social media (thanks to Open Graph tags):
 
-![og-preview](https://your-site.com/og-image.png)
+![og-preview](./og-image.png)
 
 ---
 
