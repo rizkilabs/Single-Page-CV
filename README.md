@@ -88,5 +88,5 @@ Email me: [rizkilabs.dev@gmail.com](mailto:rizkilabs.dev@gmail.com)
 
 ---
 
-Thanks for stopping by! 🙌
+Thanks for stopping by! 🙌 <br>
 If you like this, feel free to give it a ⭐ on GitHub!
