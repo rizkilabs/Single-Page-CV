@@ -66,13 +66,13 @@ Here's a quick preview of how it looks when shared on social media (thanks to Op
 ## 🙋‍♂️ About Me
 
 Hi! I’m **Rizki** – an aspiring full-stack web developer, currently learning the basics step by step.
-Let’s connect on [LinkedIn](https://linkedin.com/in/yourusername)!
+Let’s connect on [LinkedIn](https://linkedin.com/in/rizkilabs!
 
 ---
 
 ## 📫 Contact Me
 
-If you want to give feedback, or just say hi 👋
+If you want to give feedback, or just say hi 👋 <br>
 Email me: [rizkilabs.dev@@gmail.com](mailto:rizkilabs.dev@egmail.com)
 
 ---
