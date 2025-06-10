@@ -42,7 +42,7 @@ I built this to:
 ## 🔍 Try It Online
 
 Want to see it live?
-Check out the [GitHub Pages version here]([https://rizkilabs.github.io/Single-Page-CV/) 🌍
+Check out the [GitHub Pages version here](https://rizkilabs.github.io/Single-Page-CV/) 🌍
 
 > Replace the link above with your actual GitHub Pages URL if you publish it.
 
